@@ -1,2 +1,3 @@
 # fec-ups
-ongoing project
+proposal accepted
+
